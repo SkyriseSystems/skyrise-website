@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "689072e238092e8ced419393"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T08:44:18.183Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:55:27.602Z"
+  },
+  "title": "Empower Your Business With Our Comprehensive IT Solutions",
+  "subtitle": "About Us",
+  "description": " SkyRise Systems is a tech innovation company based in Lesotho, committed to helping individuals, small businesses, NGOs, and institutions thrive through affordable, reliable, and scalable digital solutions. We design and deliver software, data analytics, web hosting, and IT support services that meet real local needs.",
+  "images": [
+    {
+      "image": {
+        "$oid": "6890716438092e8ced419323"
+      },
+      "id": "68907139c092fe1689bb4ef2"
+    },
+    {
+      "image": {
+        "$oid": "6890717638092e8ced41933a"
+      },
+      "id": "6890716cc092fe1689bb4ef4"
+    },
+    {
+      "image": {
+        "$oid": "6890718938092e8ced419351"
+      },
+      "id": "68907178c092fe1689bb4ef6"
+    }
+  ],
+  "experienceYears": 2,
+  "progressBars": [
+    {
+      "title": "IT Consulting",
+      "percentage": 80,
+      "id": "68907191c092fe1689bb4ef8"
+    },
+    {
+      "title": "Software development",
+      "percentage": 90,
+      "id": "68907ab6bd023857910f91e4"
+    },
+    {
+      "title": "Data analytics",
+      "percentage": 70,
+      "id": "68907ad2bd023857910f91e6"
+    },
+    {
+      "title": "Hosting",
+      "percentage": 95,
+      "id": "68907adebd023857910f91e8"
+    }
+  ],
+  "sliderLogos": [],
+  "cta": {
+    "title": "At SkyRise Systems, We're Committed To Businesses",
+    "description": "Take the first step towards achieving your business goals by contacting us today. Schedule a consultation with one of our IT specialists to discuss your objectives and explore how our innovative solutions can propel."
+  },
+  "__v": 0
+}]

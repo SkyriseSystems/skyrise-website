@@ -1,0 +1,426 @@
+[{
+  "_id": {
+    "$oid": "68887d309603402f1a99edec"
+  },
+  "key": "collection-services",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-29T07:50:08.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:38:12.346Z"
+  },
+  "value": {
+    "editViewType": "default",
+    "preset": null,
+    "limit": 10,
+    "sort": "id"
+  }
+},
+{
+  "_id": {
+    "$oid": "68887d37cbf43914e65ec012"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T07:50:15.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T07:50:15.753Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-users",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68888acb9603402f1a99eded"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-media",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-29T08:48:11.402Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T10:21:01.222Z"
+  },
+  "value": {
+    "editViewType": "default",
+    "preset": null,
+    "limit": 10
+  }
+},
+{
+  "_id": {
+    "$oid": "6889eac2645caaaae2ede2fb"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T09:49:54.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:42:08.374Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-cta",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889ebec645caaaae2ede30c"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T09:54:52.407Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:15:11.021Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-hero",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f3d3645caaaae2ede455"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:28:35.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:10:26.067Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-about",
+  "value": {
+    "preset": null,
+    "editViewType": "default",
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f61a645caaaae2ede579"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:38:18.347Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:38:39.046Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-blog",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f841645caaaae2ede61a"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:47:29.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:48:15.687Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-project",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f8fe645caaaae2ede67b"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:50:38.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:48:44.563Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-team",
+  "value": {
+    "preset": null,
+    "editViewType": "default",
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907b4e38092e8ced419783"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:20:14.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:24:10.829Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-mission",
+  "value": {
+    "preset": null,
+    "editViewType": "default",
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907c7c38092e8ced41984a"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:25:16.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:25:38.052Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-vision",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907e369603402f1a99edee"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-vision-68907d3a38092e8ced4198cc",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-04T09:32:38.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:32:46.748Z"
+  },
+  "value": {
+    "fields": {
+      "items": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68907e7d38092e8ced4199a2"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:33:49.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:34:13.514Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-story",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689081d79603402f1a99edef"
+  },
+  "key": "collection-team-6890802338092e8ced419a7f",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-04T09:48:07.472Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:48:10.288Z"
+  },
+  "value": {
+    "fields": {
+      "socialLinks": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6890bc7a075f4e74fea11f97"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T13:58:18.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T13:58:21.014Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-serviceDetails",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891c2bb54b13ef252bf906c"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T08:37:15.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T08:44:52.456Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-servicedetails",
+  "value": {
+    "preset": null,
+    "editViewType": "default",
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68932e88df35f87d3d934453"
+  },
+  "createdAt": {
+    "$date": "2025-08-06T10:29:28.433Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T10:29:31.029Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-projects",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68934072df35f87d3d93450b"
+  },
+  "createdAt": {
+    "$date": "2025-08-06T11:45:54.472Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T11:46:09.312Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "688749f78380d7f1cc4a5286"
+    }
+  },
+  "key": "collection-projectdetails",
+  "value": {
+    "preset": null,
+    "editViewType": "default"
+  },
+  "__v": 0
+}]

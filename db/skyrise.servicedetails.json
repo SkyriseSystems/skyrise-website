@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "6891c90b54b13ef252bf9286"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T09:04:11.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:32:01.950Z"
+  },
+  "title": "Software Development",
+  "slug": "software-development",
+  "description": " At SkyRise Systems, we offer comprehensive software development services designed to help your business solve real-world problems, improve operational efficiency, and adapt to the digital era. Whether you’re a small shop owner in Maseru, a school in Thaba-Tseka, or an NGO operating across districts—our solutions are designed with your needs, environment, and users in mind",
+  "image": {
+    "$oid": "6891cb4354b13ef252bf9315"
+  },
+  "approach": "We take a client-first and goal-driven approach to every project. Our process includes: Understanding Your Business We learn about your challenges, customers, and growth goals to design a product that fits your needs—not just another off-the-shelf tool. Planning & Design We create user-friendly, visually appealing mockups and system architecture tailored to your objectives. Development & Testing Using modern tools and clean code, we build high-performance software, rigorously test it, and ensure it works across all devices. Deployment & Support After launch, we provide hosting, monitoring, and long-term support to ensure smooth performance and future upgrades",
+  "customDevelopment": "Our team specializes in developing custom software solutions tailored to address your specific business challenges. Whether you need a web application, mobile app, or enterprise.",
+  "developmentServices": "From initial concept and design to development, testing, and deployment, we offer comprehensive full-cycle development services to ensure a seamless and efficient development process",
+  "applications": "Web applications for inventory, appointment, and customer management Mobile apps for Android and iOS to reach customers on the go Internal systems for data collection, task tracking, and reporting Education & e-learning tools tailored to Lesotho’s curriculum.",
+  "technologies": [
+    {
+      "category": " Frontend",
+      "tools": "(HTML, CSS, JavaScript, React, Angular, Vue.js",
+      "id": "6891c8f9a17e4c78903b7db1"
+    }
+  ],
+  "__v": 0,
+  "serviceId": {
+    "$oid": "68888b23cbf43914e65ec066"
+  }
+},
+{
+  "_id": {
+    "$oid": "6891dece54b13ef252bf974c"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T10:37:02.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:37:02.963Z"
+  },
+  "serviceId": {
+    "$oid": "68889f2ecbf43914e65ec23d"
+  },
+  "title": "Consulting Service",
+  "slug": "consulting-service",
+  "description": "We offer expert consulting to help organizations understand, adopt, and implement the right technologies. From strategy to systems selection, we guide you step by step.",
+  "image": {
+    "$oid": "6891c82c54b13ef252bf91bd"
+  },
+  "approach": "IT strategy and planning, Technology audits and evaluations, Cybersecurity and risk assessments, Digital transformation consultin.",
+  "customDevelopment": "Better decision-making, Budget-friendly tech adoption, Reduced digital risks,Tailored recommendations.",
+  "developmentServices": "School digitization planning, Small business tech upgrades, NGO cybersecurity improvement, Workflow digital audits.",
+  "applications": "We understand the local business landscape and offer strategic insights that make digital adoption less intimidating and more effective.",
+  "technologies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6892049d84c5f707c64a0133"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T13:18:21.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T13:18:21.580Z"
+  },
+  "serviceId": {
+    "$oid": "6888c03acbf43914e65ec440"
+  },
+  "title": "Cloud Solution",
+  "slug": "cloud-solution",
+  "description": "We help businesses and institutions migrate their operations to secure, scalable cloud platforms, making remote work and digital collaboration easier.",
+  "image": {
+    "$oid": "6891c8da54b13ef252bf926e"
+  },
+  "approach": "Cloud storage and backup, Google Workspace and Microsoft 365 setup, Web-based business platforms, Cloud migration services.",
+  "customDevelopment": "Work from anywhere, Reliable data backup, Improved collaboration, Reduced IT overhead",
+  "developmentServices": "Remote school file access, NGO document management, Team shared drives, Clinic system hosting.",
+  "applications": "We provide cloud solutions that fit local infrastructure realities, ensuring access even in low-bandwidth regions.",
+  "technologies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68920ce184c5f707c64a01f1"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T13:53:37.763Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T08:18:39.511Z"
+  },
+  "serviceId": {
+    "$oid": "6888c088cbf43914e65ec477"
+  },
+  "title": "Web Hosting",
+  "slug": "web-hosting",
+  "description": "Our hosting and domain services provide the foundation for your online presence, combining reliability, security, and local support.",
+  "approach": "Domain registration (.com, .org, .co.ls), Web hosting with email & SSL, WordPress and CMS setup, Maintenance and uptime monitoring.",
+  "customDevelopment": "Easy and fast setup, Affordable hosting plans, Reliable uptime, Local support.",
+  "developmentServices": "SME website creation, Personal portfolios, School information sites, NGO campaign platforms.",
+  "applications": "We combine global infrastructure with local knowledge, helping Lesotho-based clients go online with ease and confidence.",
+  "technologies": [],
+  "__v": 0,
+  "image": {
+    "$oid": "6891c82c54b13ef252bf91bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "68920d3684c5f707c64a023b"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T13:55:02.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T13:55:02.332Z"
+  },
+  "serviceId": {
+    "$oid": "6888c0cfcbf43914e65ec4ae"
+  },
+  "title": "Data Analytics",
+  "slug": "data-analytics",
+  "description": "We help businesses and NGOs transform raw data into insights that drive better decision-making and reporting.",
+  "image": {
+    "$oid": "6891c82c54b13ef252bf91bd"
+  },
+  "approach": "Survey setup and data collection (ODK, KoboToolbox), Data cleaning and analysis, Dashboards (Power BI, Excel), Program monitoring and evaluation.",
+  "customDevelopment": "Make data-driven decisions, Visual performance tracking, Automated reports,Improve operations.\n\n",
+  "developmentServices": "NGO impact reports, School result analysis, Sales and customer analytics, Health project evaluations",
+  "applications": "We focus on relevance and clarity—making complex data simple to understand and act upon.",
+  "technologies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68920d8184c5f707c64a0286"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T13:56:17.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T13:56:17.944Z"
+  },
+  "serviceId": {
+    "$oid": "6888c14ecbf43914e65ec4fa"
+  },
+  "title": "Search Engine Optimization",
+  "slug": "search-engine-optimization",
+  "description": "We help businesses rank higher in search engines and attract more local and regional traffic online.\n\n",
+  "image": {
+    "$oid": "6891c82c54b13ef252bf91bd"
+  },
+  "approach": "On-page and off-page optimization, Local SEO for Lesotho regions, Keyword strategy and content optimization, Site speed and mobile optimization.",
+  "customDevelopment": "More website traffic, Higher Google rankings, Improved conversions, Local customer reach.",
+  "developmentServices": "Bakery visibility in Maseru, Clinic showing up in search, Store product SEO, Map listings for services",
+  "applications": "We combine technical SEO with local content strategies, helping you get discovered where it matters most.",
+  "technologies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68920dc884c5f707c64a02d1"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T13:57:28.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T13:57:28.878Z"
+  },
+  "serviceId": {
+    "$oid": "6888c19ccbf43914e65ec52f"
+  },
+  "title": "Mobile App Development",
+  "slug": "mobile-app-development",
+  "description": "We design and develop mobile apps that help you reach customers, deliver services, and streamline operations on-the-go.",
+  "image": {
+    "$oid": "6891c82c54b13ef252bf91bd"
+  },
+  "approach": "Android and iOS app development, Cross-platform apps using React Native & Flutter,App design, development & deployment, Integration with existing systems.",
+  "customDevelopment": "Reach users on mobile, Increase user engagement, Enhance service delivery, Push notifications.",
+  "developmentServices": "Booking app for salons, School learning apps, Grocery delivery tracking, Appointment reminders.",
+  "applications": "We focus on lightweight, efficient mobile apps that work well even in areas with limited internet access.",
+  "technologies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68920e2184c5f707c64a0322"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T13:58:57.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T13:58:57.270Z"
+  },
+  "serviceId": {
+    "$oid": "6888c1d3cbf43914e65ec56e"
+  },
+  "title": "IT Infrastructure & Networking",
+  "slug": "it-infrastructure-networking",
+  "description": "We provide complete IT setup and support—from office networks to device maintenance—to keep your business running smoothly.",
+  "image": {
+    "$oid": "6891c82c54b13ef252bf91bd"
+  },
+  "approach": "LAN/WAN installation, Printer, router, and server setup, Cabling and wireless network configuration, Remote IT support and troubleshooting.",
+  "customDevelopment": "Faster system performance, Fewer downtimes, Secure connections, Affordable support.",
+  "developmentServices": "Office network setup, School computer lab wiring, NGO remote access, Small clinic tech upgrade.",
+  "applications": "We specialize in creating tech environments that are stable, secure, and ready for growth—at a cost local organizations can manage.",
+  "technologies": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68920e6484c5f707c64a036d"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T14:00:04.569Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T08:17:30.080Z"
+  },
+  "serviceId": {
+    "$oid": "6888c200cbf43914e65ec5a8"
+  },
+  "title": "Custom Software Development",
+  "slug": "custom-software-development",
+  "description": "We build software that fits your organization’s exact needs—no fluff, just functionality.",
+  "image": {
+    "$oid": "6891c8da54b13ef252bf926e"
+  },
+  "approach": "End-to-end development, Workflow automation systems, Reporting and dashboard tools, Unique business platforms.",
+  "customDevelopment": "100% tailored tools, No unnecessary features, Long-term cost savings, Full control and ownership.",
+  "developmentServices": "NGO grant tracking system, Custom medical record tool, School event scheduling system, Retail stock monitoring app.",
+  "applications": "We don’t force you to adapt to software—we design it to work the way you already do.",
+  "technologies": [],
+  "__v": 0
+}]

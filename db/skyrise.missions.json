@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "68907bd238092e8ced4197d5"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:22:26.382Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:24:36.636Z"
+  },
+  "title": "Innovating for Success: Our Technology Mission",
+  "subtitle": "Our Mission",
+  "description": "To empower businesses, schools, and communities in Lesotho with accessible, high-quality technology solutions that improve productivity, efficiency, and digital presence.  Whether you’re a small shop owner looking for a point-of-sale solution, a school seeking an e-learning platform, or a business that needs help moving online—SkyRise Systems is here to make it simple and impactful. We are not just building software—we are building Lesotho’s digital future.",
+  "images": [
+    {
+      "image": {
+        "$oid": "68907bae38092e8ced419798"
+      },
+      "id": "68907b94bd023857910f91ea"
+    },
+    {
+      "image": {
+        "$oid": "68907bbc38092e8ced4197ae"
+      },
+      "id": "68907bb1bd023857910f91ec"
+    },
+    {
+      "image": {
+        "$oid": "68907bca38092e8ced4197c4"
+      },
+      "id": "68907bbfbd023857910f91ee"
+    }
+  ],
+  "__v": 0
+}]

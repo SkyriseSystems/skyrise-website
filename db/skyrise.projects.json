@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "68932f1cdf35f87d3d9344a0"
+  },
+  "createdAt": {
+    "$date": "2025-08-06T10:31:56.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T10:31:56.035Z"
+  },
+  "title": "Enterprise Resource Planning Implementation 1",
+  "slug": "implementation-1",
+  "description": "the first",
+  "image": {
+    "$oid": "68932f17df35f87d3d93448f"
+  },
+  "__v": 0
+}]

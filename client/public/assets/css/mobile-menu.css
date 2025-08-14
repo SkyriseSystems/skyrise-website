@@ -1,0 +1,204 @@
+/* Base CSS */
+@media screen and (max-width: 769px) {
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+  
+    body {
+      font-size: 16px;
+      font-family: 'arial', sans-serif;
+    }
+  
+    a,
+    a:hover {
+      outline: none;
+      text-decoration: none;
+    }
+  
+    ul,
+    li {
+      list-style: none;
+    }
+  
+    /* Mobile Header */
+    .mobile-header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      padding: 17px 0;
+      z-index: 999;
+      background: #fff;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+  
+    .mobile-header-elements {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 15px;
+    }
+  
+    .mobile-logo a {
+      font-size: 20px;
+      font-weight: 700;
+      color: #000;
+      text-decoration: none;
+    }
+  
+    .mobile-nav-icon {
+      font-size: 23px;
+      border: 1px solid #ccc;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 4px;
+      color: #000;
+      cursor: pointer;
+    }
+  
+    /* Mobile Sidebar */
+    .mobile-sidebar {
+      position: fixed;
+      height: 100%;
+      width: 80%;
+      max-width: 300px;
+      background: #021334;
+      z-index: 9999;
+      padding: 40px 20px;
+      left: -100%;
+      top: 0;
+      visibility: hidden;
+      opacity: 0;
+      transition: all 0.3s ease-in-out;
+      overflow-y: auto;
+    }
+  
+    .mobile-sidebar.mobile-menu-active {
+      left: 0;
+      visibility: visible;
+      opacity: 1;
+    }
+  
+    .menu-close {
+      position: absolute;
+      right: 20px;
+      top: 20px;
+      font-size: 25px;
+      color: #fff;
+      cursor: pointer;
+    }
+  
+    .mobile-nav {
+      margin-top: 20px;
+    }
+  
+    .mobile-nav-list {
+      margin-top: 30px;
+    }
+  
+    .mobile-nav li a {
+      font-size: 18px;
+      line-height: 24px;
+      color: #fff;
+      padding: 10px 0;
+      display: block;
+      transition: color 0.3s;
+    }
+  
+    .mobile-nav li a:hover {
+      color: #007bff;
+    }
+  
+    /* Mobile Button */
+    .mobile-button {
+      margin: 20px 0;
+    }
+  
+    .menu-btn2 {
+      display: inline-block;
+      padding: 15px;
+      border-radius: 5px;
+      border: 1px solid #fff;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      transition: background 0.3s, color 0.3s;
+    }
+  
+    .menu-btn2:hover {
+      background: #007bff;
+      border-color: #007bff;
+    }
+  
+    /* Contact Section */
+    .single-footer-items h3,
+    .contact-infos h3 {
+      font-size: 20px;
+      line-height: 24px;
+      font-weight: 600;
+      color: #fff;
+      padding: 20px 0;
+    }
+  
+    .contact-box {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+  
+    .contact-box .icon {
+      margin-right: 10px;
+    }
+  
+    .contact-box .pera a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 16px;
+    }
+  
+    .contact-box .pera a:hover {
+      color: #007bff;
+    }
+  
+    /* Social Icons */
+    .social-icon {
+      display: flex;
+      list-style: none;
+      padding: 0;
+      margin-top: 10px;
+    }
+  
+    .social-icon li {
+      margin-right: 15px;
+    }
+  
+    .social-icon li a {
+      color: #fff;
+      font-size: 20px;
+      transition: color 0.3s;
+    }
+  
+    .social-icon li a:hover {
+      color: #007bff;
+    }
+  }
+  
+  /* Ensure desktop header is hidden on mobile */
+  @media screen and (max-width: 769px) {
+    .header-area {
+      display: none !important;
+    }
+  }
+  
+  /* Desktop styles */
+  @media screen and (min-width: 770px) {
+    .mobile-header,
+    .mobile-sidebar {
+      display: none !important;
+    }
+  }

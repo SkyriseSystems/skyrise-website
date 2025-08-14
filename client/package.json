@@ -1,0 +1,37 @@
+{
+  "name": "skyrise-systems",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@payloadcms/bundler-webpack": "^1.0.7",
+    "@payloadcms/db-mongodb": "^3.48.0",
+    "@payloadcms/richtext-slate": "^3.48.0",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "fontawesome": "^5.6.3",
+    "lint": "^1.1.2",
+    "next": "15.3.5",
+    "payload": "^3.48.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/express": "^5.0.3",
+    "@types/node": "^20.19.9",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

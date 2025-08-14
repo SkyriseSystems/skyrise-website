@@ -1,0 +1,649 @@
+[{
+  "_id": {
+    "$oid": "68888afbcbf43914e65ec050"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T08:48:59.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T09:36:46.652Z"
+  },
+  "alt": "service-icon-1",
+  "filename": "service-page-icon1-4.png",
+  "mimeType": "image/png",
+  "filesize": 786,
+  "width": 26,
+  "height": 24,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0,
+  "thumbnailURL": null,
+  "url": "/api/media/file/service-page-icon1-3.png"
+},
+{
+  "_id": {
+    "$oid": "6888c020cbf43914e65ec426"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:35:44.697Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T12:35:44.697Z"
+  },
+  "filename": "service-page-icon5.png",
+  "mimeType": "image/png",
+  "filesize": 635,
+  "width": 19,
+  "height": 24,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c07bcbf43914e65ec462"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:37:15.813Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T12:37:15.813Z"
+  },
+  "filename": "service-page-icon8.png",
+  "mimeType": "image/png",
+  "filesize": 628,
+  "width": 23,
+  "height": 24,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c0b2cbf43914e65ec495"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:38:10.777Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T12:38:10.777Z"
+  },
+  "filename": "service-page-icon9.png",
+  "mimeType": "image/png",
+  "filesize": 760,
+  "width": 27,
+  "height": 24,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c142cbf43914e65ec4e5"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:40:34.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T12:40:34.966Z"
+  },
+  "filename": "service-page-icon2.png",
+  "mimeType": "image/png",
+  "filesize": 804,
+  "width": 24,
+  "height": 24,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c190cbf43914e65ec51a"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:41:52.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T12:41:52.063Z"
+  },
+  "filename": "service-icon1.png",
+  "mimeType": "image/png",
+  "filesize": 959,
+  "width": 39,
+  "height": 40,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c482cbf43914e65ec672"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:54:26.285Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T12:54:26.285Z"
+  },
+  "filename": "service-page-icon6.png",
+  "mimeType": "image/png",
+  "filesize": 845,
+  "width": 25,
+  "height": 24,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c590cbf43914e65ec6c0"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:58:56.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T12:58:56.013Z"
+  },
+  "filename": "service-page-icon7.png",
+  "mimeType": "image/png",
+  "filesize": 786,
+  "width": 29,
+  "height": 24,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f1a7645caaaae2ede38d"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:19:19.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:19:19.984Z"
+  },
+  "filename": "hero1-image1.png",
+  "mimeType": "image/png",
+  "filesize": 125979,
+  "width": 488,
+  "height": 487,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f245645caaaae2ede3a3"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:21:57.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:21:57.224Z"
+  },
+  "filename": "hero-bottom-icon1.png",
+  "mimeType": "image/png",
+  "filesize": 560,
+  "width": 29,
+  "height": 29,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f274645caaaae2ede3bb"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:22:44.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:22:44.725Z"
+  },
+  "filename": "hero-bottom-icon2.png",
+  "mimeType": "image/png",
+  "filesize": 424,
+  "width": 28,
+  "height": 28,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f2a7645caaaae2ede3d3"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:23:35.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:23:35.099Z"
+  },
+  "filename": "hero-bottom-icon3.png",
+  "mimeType": "image/png",
+  "filesize": 521,
+  "width": 28,
+  "height": 28,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f2d3645caaaae2ede3eb"
+  },
+  "createdAt": {
+    "$date": "2025-07-30T10:24:19.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T10:24:19.506Z"
+  },
+  "filename": "hero-bottom-icon4.png",
+  "mimeType": "image/png",
+  "filesize": 430,
+  "width": 28,
+  "height": 28,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890716438092e8ced419323"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T08:37:56.737Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T08:37:56.737Z"
+  },
+  "filename": "about2-img1-1.png",
+  "mimeType": "image/png",
+  "filesize": 21653,
+  "width": 178,
+  "height": 134,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890717638092e8ced41933a"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T08:38:14.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T08:38:14.907Z"
+  },
+  "filename": "about2-img2-1.png",
+  "mimeType": "image/png",
+  "filesize": 114855,
+  "width": 470,
+  "height": 400,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890718938092e8ced419351"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T08:38:33.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T08:38:33.115Z"
+  },
+  "filename": "about2-img3-1.png",
+  "mimeType": "image/png",
+  "filesize": 16355,
+  "width": 178,
+  "height": 134,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907bae38092e8ced419798"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:21:50.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:21:50.245Z"
+  },
+  "filename": "solution-img1.png",
+  "mimeType": "image/png",
+  "filesize": 63378,
+  "width": 178,
+  "height": 134,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907bbc38092e8ced4197ae"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:22:04.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:22:04.710Z"
+  },
+  "filename": "solution-img2.png",
+  "mimeType": "image/png",
+  "filesize": 475052,
+  "width": 470,
+  "height": 400,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907bca38092e8ced4197c4"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:22:18.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:22:18.055Z"
+  },
+  "filename": "solution-img3.png",
+  "mimeType": "image/png",
+  "filesize": 51518,
+  "width": 178,
+  "height": 134,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907ccb38092e8ced41985f"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:26:35.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:26:35.658Z"
+  },
+  "filename": "visiton-img1.png",
+  "mimeType": "image/png",
+  "filesize": 121530,
+  "width": 570,
+  "height": 320,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907ce038092e8ced419875"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:26:56.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:26:56.946Z"
+  },
+  "filename": "visiton-img2.png",
+  "mimeType": "image/png",
+  "filesize": 50700,
+  "width": 270,
+  "height": 250,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907cef38092e8ced41988b"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:27:11.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:27:11.241Z"
+  },
+  "filename": "visiton-img3.png",
+  "mimeType": "image/png",
+  "filesize": 59675,
+  "width": 270,
+  "height": 250,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907d1a38092e8ced4198a3"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:27:54.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:27:54.665Z"
+  },
+  "filename": "about-solution-iocn1.png",
+  "mimeType": "image/png",
+  "filesize": 440,
+  "width": 28,
+  "height": 28,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907d3638092e8ced4198bb"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:28:22.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:28:22.828Z"
+  },
+  "filename": "about-solution-iocn2.png",
+  "mimeType": "image/png",
+  "filesize": 336,
+  "width": 28,
+  "height": 28,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68907f0038092e8ced4199bb"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:36:00.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:36:00.825Z"
+  },
+  "filename": "about-tab-img.png",
+  "mimeType": "image/png",
+  "filesize": 371596,
+  "width": 530,
+  "height": 394,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890801138092e8ced419a6b"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:40:33.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:40:33.412Z"
+  },
+  "filename": "team2-img1.png",
+  "mimeType": "image/png",
+  "filesize": 67634,
+  "width": 270,
+  "height": 350,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890814f38092e8ced419ad8"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:45:51.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:45:51.607Z"
+  },
+  "filename": "x-new.avif",
+  "mimeType": "image/avif",
+  "filesize": 4283,
+  "width": 626,
+  "height": 626,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689082dd38092e8ced419bec"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:52:29.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:52:29.828Z"
+  },
+  "filename": "team2-img2.png",
+  "mimeType": "image/png",
+  "filesize": 54234,
+  "width": 270,
+  "height": 350,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890832238092e8ced419c2d"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:53:38.251Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:53:38.251Z"
+  },
+  "filename": "team2-img4.png",
+  "mimeType": "image/png",
+  "filesize": 68118,
+  "width": 270,
+  "height": 350,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891c82c54b13ef252bf91bd"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T09:00:28.842Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T09:00:28.842Z"
+  },
+  "filename": "service-details-img.png",
+  "mimeType": "image/png",
+  "filesize": 213431,
+  "width": 750,
+  "height": 450,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891c8da54b13ef252bf926e"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T09:03:22.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T09:03:22.175Z"
+  },
+  "filename": "service7-img1.png",
+  "mimeType": "image/png",
+  "filesize": 68139,
+  "width": 370,
+  "height": 250,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891cb4354b13ef252bf9315"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T09:13:39.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T09:13:39.802Z"
+  },
+  "filename": "service7-img2.png",
+  "mimeType": "image/png",
+  "filesize": 58377,
+  "width": 370,
+  "height": 250,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68932f17df35f87d3d93448f"
+  },
+  "createdAt": {
+    "$date": "2025-08-06T10:31:51.488Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T10:31:51.488Z"
+  },
+  "filename": "project-page-img1.png",
+  "mimeType": "image/png",
+  "filesize": 65911,
+  "width": 370,
+  "height": 370,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689340badf35f87d3d934533"
+  },
+  "createdAt": {
+    "$date": "2025-08-06T11:47:06.407Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T11:47:06.407Z"
+  },
+  "filename": "project-details-img1.png",
+  "mimeType": "image/png",
+  "filesize": 166663,
+  "width": 750,
+  "height": 450,
+  "focalX": 50,
+  "focalY": 50,
+  "__v": 0
+}]

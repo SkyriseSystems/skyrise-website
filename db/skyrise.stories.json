@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "68907f0438092e8ced4199cc"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:36:04.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:38:42.463Z"
+  },
+  "title": "Our Company Story",
+  "subtitle": "Our Story",
+  "year": "2025",
+  "tabTitle": "2025 - A Legacy of Innovation",
+  "description": [
+    {
+      "label": "Early Years: ",
+      "text": "Founded by a team of tech enthusiasts and developers from Lesotho, SkyRise Systems was born out of a simple observation: too many local businesses and schools were being left behind in the digital age.",
+      "id": "68907ebfbd023857910f91fa"
+    },
+    {
+      "label": "Expansion & Innovation:",
+      "text": "We started by offering small software tools and website services for friends and family. As we grew, so did the demand. Now, we’re on a mission to close the digital gap—one solution at a time. From the mountains of Mokhotlong to the streets of Maseru, we want every person and business to benefit from what technology can offer.",
+      "id": "68907f8cbd023857910f91fc"
+    }
+  ],
+  "image": {
+    "$oid": "68907f0038092e8ced4199bb"
+  },
+  "__v": 0
+}]

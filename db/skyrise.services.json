@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "68888b23cbf43914e65ec066"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T08:49:39.554Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:30:57.677Z"
+  },
+  "title": "Software Development",
+  "slug": "software-development",
+  "description": "We build web-based tools, desktop apps, and internal systems tailored to your operations. If you can imagine it,\nwe can code it.",
+  "icon": {
+    "$oid": "68888afbcbf43914e65ec050"
+  },
+  "iconUrl": "/api/media/file/service-page-icon1-4.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68889f2ecbf43914e65ec23d"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T10:15:10.022Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:30:40.226Z"
+  },
+  "title": "Consulting Service",
+  "slug": "consulting-service",
+  "description": "Strategic IT planning roadmap development Business process analysis and improvement for It solution & technology.",
+  "icon": {
+    "$oid": "6888c482cbf43914e65ec672"
+  },
+  "iconUrl": "/api/media/file/service-page-icon3-1.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c03acbf43914e65ec440"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:36:10.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:30:23.504Z"
+  },
+  "title": "Cloud Solution",
+  "slug": "cloud-solution",
+  "description": "We move your business to the cloud—making your files, apps, and tools accessible anywhere, anytime, securely.\nand Software as a Service (SaaS)",
+  "icon": {
+    "$oid": "6888c020cbf43914e65ec426"
+  },
+  "iconUrl": "/api/media/file/service-page-icon5.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c088cbf43914e65ec477"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:37:28.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:30:08.277Z"
+  },
+  "title": "Web Hosting",
+  "slug": "web-hosting",
+  "description": "We provide fast and affordable hosting and domain services, so your business is always online, secure, and easy to find.",
+  "icon": {
+    "$oid": "6888c07bcbf43914e65ec462"
+  },
+  "iconUrl": "/api/media/file/service-page-icon8.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c0cfcbf43914e65ec4ae"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:38:39.299Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:29:55.016Z"
+  },
+  "title": "Data Analytics",
+  "slug": "data-analytics",
+  "description": "We turn raw data into smart decisions—using dashboards, reports, and visual insights to help you understand what’s really happening in your business.",
+  "icon": {
+    "$oid": "6888c0b2cbf43914e65ec495"
+  },
+  "iconUrl": "/api/media/file/service-page-icon9.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c14ecbf43914e65ec4fa"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:40:46.749Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:29:39.329Z"
+  },
+  "title": "Search Engine optimization",
+  "slug": "search-engine-optimization",
+  "description": "We help your website rank higher on Google, attract more local traffic, and convert visitors into customers.",
+  "icon": {
+    "$oid": "6888c142cbf43914e65ec4e5"
+  },
+  "iconUrl": "/api/media/file/service-page-icon2.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c19ccbf43914e65ec52f"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:42:04.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:29:17.900Z"
+  },
+  "title": "Mobile App Development",
+  "slug": "mobile-app-development",
+  "description": "We create mobile apps for Android and iOS that bring your services to your customers’ fingertips\nanytime, anywhere.",
+  "icon": {
+    "$oid": "6888c190cbf43914e65ec51a"
+  },
+  "iconUrl": "/api/media/file/service-page-icon1.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c1d3cbf43914e65ec56e"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:42:59.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:28:43.102Z"
+  },
+  "title": "IT Infrastructure & Networking",
+  "slug": "it-infrastructure-networking",
+  "description": "We set up and maintain networks, servers, and office systems to keep your business connected\nand running smoothly.",
+  "icon": {
+    "$oid": "6888c07bcbf43914e65ec462"
+  },
+  "iconUrl": "/api/media/file/service-page-icon81.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888c200cbf43914e65ec5a8"
+  },
+  "createdAt": {
+    "$date": "2025-07-29T12:43:44.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T10:27:59.884Z"
+  },
+  "title": "Custom Software Development",
+  "slug": "custom-software-development",
+  "description": "We develop personalized software solutions built exactly for how you work no unnecessary features.",
+  "icon": {
+    "$oid": "6888c590cbf43914e65ec6c0"
+  },
+  "iconUrl": "/api/media/file/service-page-icon9-1.png",
+  "__v": 0
+}]

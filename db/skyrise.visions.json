@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "68907d3a38092e8ced4198cc"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:28:26.558Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:33:10.651Z"
+  },
+  "title": "Driving Innovation: Our Vision at SkyRise",
+  "subtitle": "Our Vision",
+  "description": "To be Lesotho’s leading tech solutions provider—known for trust, innovation, and transforming everyday challenges into digital opportunities.",
+  "images": [
+    {
+      "image": {
+        "$oid": "68907ccb38092e8ced41985f"
+      },
+      "id": "68907cb1bd023857910f91f0"
+    },
+    {
+      "image": {
+        "$oid": "68907ce038092e8ced419875"
+      },
+      "id": "68907ccdbd023857910f91f2"
+    },
+    {
+      "image": {
+        "$oid": "68907cef38092e8ced41988b"
+      },
+      "id": "68907ce3bd023857910f91f4"
+    }
+  ],
+  "items": [
+    {
+      "title": "Software Development",
+      "description": "Build a reliable and secure software solutions that supports your business operations enables seamless",
+      "icon": {
+        "$oid": "68907d1a38092e8ced4198a3"
+      },
+      "id": "68907cf1bd023857910f91f6"
+    },
+    {
+      "title": "Web Hosting and SEO",
+      "description": "Focus on your core business activities while we take care of your hosting and search engine optimization",
+      "icon": {
+        "$oid": "68907d3638092e8ced4198bb"
+      },
+      "id": "68907d1dbd023857910f91f8"
+    }
+  ],
+  "__v": 0
+}]

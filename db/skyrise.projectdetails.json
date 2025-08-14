@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "68934118df35f87d3d934553"
+  },
+  "createdAt": {
+    "$date": "2025-08-06T11:48:40.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T12:21:45.169Z"
+  },
+  "projectId": {
+    "$oid": "68932f1cdf35f87d3d9344a0"
+  },
+  "title": "Streamline Your Business Operations with (ERP) Systems",
+  "slug": "implementation-1",
+  "description": "Enterprise Resource Planning (ERP) systems are powerful tools designed to integrate and streamline various business processes, from finance and human resources to supply chain management and customer relationship management. At [Company Name], we specialize in ERP implementation, helping businesses of all sizes optimize their operations, improve efficiency, and drive growth.",
+  "image": {
+    "$oid": "689340badf35f87d3d934533"
+  },
+  "implementationProcess": [
+    {
+      "step": "Needs Assessment",
+      "id": "689340bf5fd11850d1d53fe0"
+    },
+    {
+      "step": "Solution Design",
+      "id": "689340c95fd11850d1d53fe2"
+    },
+    {
+      "step": "Data Migration",
+      "id": "689340da5fd11850d1d53fe4"
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Improved Efficiency",
+      "description": "Streamline business processes and workflows, reducing manual effort and improving productivity.",
+      "id": "689340f75fd11850d1d53fe6"
+    },
+    {
+      "title": "Improved Efficiency",
+      "description": "Streamline business processes and workflows, reducing manual effort and improving productivity.",
+      "id": "6893410c5fd11850d1d53fe8"
+    }
+  ],
+  "__v": 0
+}]

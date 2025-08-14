@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6890802338092e8ced419a7f"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:40:51.293Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:50:44.523Z"
+  },
+  "name": "Ts'oloane Makakane",
+  "role": "CEO",
+  "image": {
+    "$oid": "6890801138092e8ced419a6b"
+  },
+  "socialLinks": [
+    {
+      "url": "https://twitter.com",
+      "icon": "X",
+      "id": "689080e6dfda2e19b89307cc"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689082e038092e8ced419bfd"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:52:32.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:52:32.281Z"
+  },
+  "name": "Mosiuoa Mohobane",
+  "role": "CTO",
+  "image": {
+    "$oid": "689082dd38092e8ced419bec"
+  },
+  "socialLinks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890832538092e8ced419c3e"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T09:53:41.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T09:53:41.635Z"
+  },
+  "name": "Batloung Masoabi",
+  "role": "Lead Engineer",
+  "image": {
+    "$oid": "6890832238092e8ced419c2d"
+  },
+  "socialLinks": [],
+  "__v": 0
+}]
