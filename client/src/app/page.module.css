@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .page {
   --gray-rgb: 0, 0, 0;
   --gray-alpha-200: rgba(var(--gray-rgb), 0.08);
@@ -166,3 +167,8 @@ a.secondary {
     filter: invert();
   }
 }
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:d77018516e8df37b88139ab7bc82f3eef494d5e55dd45f51c149f8abd3062029
+size 2747
+>>>>>>> origin/main

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const rippleBtns = document.getElementsByClassName("ripple");
 
 function createRipple(event) {
@@ -50,3 +51,8 @@ let progress3 = $('#progress3').LineProgressbar({
 
 
 if($('.reveal').length){gsap.registerPlugin(ScrollTrigger);let revealContainers=document.querySelectorAll(".reveal");revealContainers.forEach((container)=>{let image=container.querySelector("img");let tl=gsap.timeline({scrollTrigger:{trigger:container,toggleActions:"play none none none"}});tl.set(container,{autoAlpha:1});tl.from(container,1.5,{xPercent:-100,ease:Power2.out});tl.from(image,1.5,{xPercent:100,scale:1.3,delay:-1.5,ease:Power2.out});});}
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:56f07560e43dbffb4ad6102e864e99bde91f63d5bac4e2b179b4dd16fbc8b3be
+size 1861
+>>>>>>> origin/main

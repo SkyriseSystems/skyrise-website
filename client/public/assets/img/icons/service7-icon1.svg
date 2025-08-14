@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.333 13.3337C13.333 14.8065 14.5269 16.0003 15.9997 16.0003C17.4725 16.0003 18.6663 14.8065 18.6663 13.3337C18.6663 11.8609 17.4725 10.667 15.9997 10.667C14.5269 10.667 13.333 11.8609 13.333 13.3337Z" stroke="#0061FF" stroke-width="1.5"/>
 <path d="M24.3269 20.0003C25.7907 18.1742 26.6663 15.8562 26.6663 13.3337C26.6663 7.44262 21.8907 2.66699 15.9997 2.66699C10.1086 2.66699 5.33301 7.44262 5.33301 13.3337C5.33301 15.8562 6.20863 18.1742 7.67251 20.0003" stroke="#0061FF" stroke-width="1.5" stroke-linecap="round"/>
@@ -5,3 +6,8 @@
 <path d="M14.667 24H17.3337" stroke="#0061FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M21.1875 8.81374L23.8694 6.13184" stroke="#0061FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:e96d7fdb135c88dcc5c5104339508240c02dbedf61b78bddba76539ad5bde6c9
+size 1426
+>>>>>>> origin/main
